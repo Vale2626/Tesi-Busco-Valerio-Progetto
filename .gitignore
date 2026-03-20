@@ -6,3 +6,13 @@ Logs/
 UserSettings/
 .vscode/
 .DS_Store
+*.csproj
+*.sln
+*.user
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+*.psd
